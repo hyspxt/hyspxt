@@ -4,4 +4,4 @@
 #### Here you'll find some projects that I did / i'm doing for various Uni courses and, less often (due to lack of time sigh), personal applications.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyspxt&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyspxt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyspxt&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
