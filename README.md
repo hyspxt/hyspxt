@@ -7,6 +7,6 @@
   <img height=200 align="center" src="https://github-readme-stats-lac-six-43.vercel.app/api?username=hyspxt&show_icons=true&theme=merko" />
 </a>
 <a href="https://github-readme-stats-lac-six-43.vercel.app/api?username=hyspxt&show_icons=true&theme=merko">
-  <img height=200 align="center" src="https://github-readme-stats-lac-six-43.vercel.app/api/top-langs?username=hyspxt&layout=compact&langs_count=8&card_width=280&theme=merko"/>
+  <img height=200 align="center" src="https://github-readme-stats-lac-six-43.vercel.app/api/top-langs?username=hyspxt&layout=compact&langs_count=8&card_width=280&theme=merko&hide=jupyter%20notebook"/>
 </a>
 
